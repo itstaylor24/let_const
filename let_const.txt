@@ -1,0 +1,6 @@
+1. Const PI =3.14
+
+2. Var can be redeclared while let cannot be redeclared. Var has function scope while let has block scope
+3. Var can be redeclared and reassigned while const cannot be redeclared or reassigned, const has block scope while var has function scope
+4. Let variables can be reassigned while const variables cannot
+5.  Variables undefined value can be accessed before it is used--hoisted to top of scope.
